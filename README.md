@@ -1,4 +1,4 @@
-# 👋🏼Hello, my name is Kenji Kawaida
+# 👋 🏼Hello, my name is Kenji Kawaida
 
 I'm a Senior developer in mobile applications.
 

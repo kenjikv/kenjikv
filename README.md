@@ -23,7 +23,7 @@ Organizer and speakers at Google Developer Group - Santa Cruz, with more than 6 
 And more...
 
 ## Find me at:
-[![Medium](https://img.shields.io/badge/Medium-@kenjikawaida-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://kenjikawaida.medium.com/)
+[![Medium](https://img.shields.io/badge/Medium-@kenjikawaida-1DA1F2?style=for-the-badge&logo=medium&logoColor=white&labelColor=101010)](https://kenjikawaida.medium.com/)
 [![Twitter](https://img.shields.io/badge/Twitter-@kenjikawaida-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/kenjikawaida)
 [![Instagram](https://img.shields.io/badge/Instagram-@kenjikawaida-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/kenjikawaida/)
 </br>
@@ -32,4 +32,4 @@ And more...
 
 ## Contact me:
 
-[![Email](https://img.shields.io/badge/kenjikawaidav@gmail.com.com-my_personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:kenjikawaidav@gmail.com)
+[![Email](https://img.shields.io/badge/kenjikawaidav@gmail.com-my_personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:kenjikawaidav@gmail.com)

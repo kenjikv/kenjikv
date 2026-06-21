@@ -1,15 +1,8 @@
 # 👋 Hello, my name is Kenji Kawaida
 
-I'm a Senior developer in mobile applications.
+Computer Engineer with postgraduate training in software quality, software engineering, higher education, research methodology, and Strategic Management in Software Engineering. He is currently pursuing a PhD in Computer Science and holds official certifications as an Android Developer, Android Engineer, Scrum Foundation, and Scrum Master. His profile combines a strong technical, academic, and strategic foundation focused on the development of technological solutions.
 
-With more than 10 years of experience in mobile development and with more than 10 applications
-published in the Play Store and more than 20 commercial applications.
-
-With international certification in Advanced Training Consultants (ATC):
-• Android Certified Application Developer
-• Android Certified Application Engineer
-
-Organizer and speakers at Google Developer Group - Santa Cruz, with more than 6 years of experience in training in Google technologies.
+He has experience in full-stack development, project leadership, technology consulting, and undergraduate and postgraduate university teaching. He has worked on mobile solutions, web systems, geospatial platforms, artificial intelligence, natural language processing, telemonitoring, crypto-assets, and data management. In addition, he has participated as a speaker in national and international events and has publications related to software engineering and applied research.
 
 ## Skills:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
